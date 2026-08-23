@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rvinduattanayake/rvinduattanayake/blob/main/img/gif2.gif" alt="header" height="5%" width="100%"/ >
+  <img src="https://github.com/rvinduattanayake/rvinduattanayake/blob/main/img/gif3.gif" alt="header" height="5%" width="100%"/ >
 </div>
 
 <h2 align="center"> 👨‍💻 Behind the Screen</h2>
